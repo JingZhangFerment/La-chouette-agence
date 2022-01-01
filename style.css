@@ -125,8 +125,7 @@ a:hover {
 .d-bloc h3 a,
 .d-bloc h4 a,
 .d-bloc h5 a,
-.d-bloc h6 a,
-.d-bloc p a {
+.d-bloc h6 a {
     color: rgba(255, 255, 255, .6);
 }
 
@@ -142,8 +141,7 @@ a:hover {
 .d-bloc h3 a:hover,
 .d-bloc h4 a:hover,
 .d-bloc h5 a:hover,
-.d-bloc h6 a:hover,
-.d-bloc p a:hover {
+.d-bloc h6 a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
@@ -779,11 +777,11 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color:#333;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #000000;
 }
 
 .ltc-atomic-tangerine {
