@@ -19,7 +19,9 @@ a:hover {
 }
 
 a:focus, button:focus {
-    outline: 3px solid black!important;
+    outline: 2px solid black!important;
+    outline-offset:2px;
+    border-radius: 1px;
 }
 
 #page-loading-blocs-notifaction {
