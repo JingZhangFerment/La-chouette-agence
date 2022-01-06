@@ -1591,11 +1591,6 @@ h6 small {
     font-size: 75%
 }
 
-.h1,
-h1 {
-    font-size: 36px
-}
-
 .h2,
 h2 {
     font-size: 30px
@@ -3091,7 +3086,8 @@ label {
     display: inline-block;
     max-width: 100%;
     margin-bottom: 5px;
-    font-weight: 700
+    font-weight: 700;
+    color:#575757;
 }
 
 input[type=search] {
