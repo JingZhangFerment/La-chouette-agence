@@ -1,14 +1,14 @@
 # La chouette agence
 
-Projet OpenClassrooms. L'objectif est d'optimiser un site web existant. Je propose une série d'améliorations en 3 étapes :
+Projet OpenClassrooms. L'objectif est d'optimiser un site web existant. 
 
-## Etape 1: 10 améliorations du SEO en évitant les erreurs graves
+## 10 améliorations du SEO en évitant les erreurs graves
 
-- Renseigner le champs "lang" dans les fichiers html
+- Ajouter l'attribut "lang=fr" dans les fichiers html
 
 - Améliorer le niveau de contraste et la taille des textes
 
-- Ajouter des réseaux sociaux en lien
+- Ajouter des réseaux sociaux en lien accessible
 
 - Supprimer les textes sous forme de l'image
 
@@ -24,8 +24,8 @@ Projet OpenClassrooms. L'objectif est d'optimiser un site web existant. Je propo
   
 - Mettre les textes alternatifs appropriés dans "alt" des images
   
-## Etape 2: 15 recommandations pour perfectionner le SEO du site 
+## 15 recommandations à perfectionner le SEO du site 
 voir "les étapes 2 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx
 
-## Etape 3: 3 recommendations pour maintenir le SEO du site 
+## 3 recommendations à maintenir le SEO du site 
 voir "les étapes 3 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx
