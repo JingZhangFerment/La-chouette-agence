@@ -10,19 +10,19 @@ Projet OpenClassrooms. L'objectif est d'optimiser un site web existant. Je propo
 
 - Ajouter des réseaux sociaux en lien
 
-- Supprimer les textes sous forme de l'image et remplacer par le contenu avec les mots-clés
+- Supprimer les textes sous forme de l'image
 
-- Supprimer les mots-clés cachés en ajoutant les mots-clés pertinents avec `<strong>` ou `<em>` dans les sous-parties
+- Supprimer les mots-clés cachés 
   
-- Optimiser les balises méta (title, description, keywords) avec les mots-clés pertinents
+- Optimiser les balises méta avec les mots-clés pertinents
   
 - Supprimer les liens "spammy" dans le footer
   
-- Installer les bons outils de suivi et paramétrer les balises meta robots
+- Installer les bons outils de suivi
   
 - Compresser les images et optimiser leurs tailles et formats
   
-- Mettre les textes alternatifs appropriés dans "alt" des images## Etape 1: 10 améliorations du SEO en évitant les erreurs graves
+- Mettre les textes alternatifs appropriés dans "alt" des images
   
 ## Etape 2: 15 recommandations pour perfectionner le SEO du site 
 voir "les étapes 2 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx
