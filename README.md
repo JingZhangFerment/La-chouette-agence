@@ -1,8 +1,8 @@
 # La chouette agence
 
-Projet OpenClassrooms. L'objectif est d'optimiser un site web existant. 
+Projet OpenClassrooms. L'objectif est d'optimiser un site web existant.
 
-## 10 améliorations du SEO en évitant les erreurs graves
+## 10 améliorations sélectionnées
 
 - Ajouter l'attribut "lang=fr" dans les fichiers html
 
@@ -18,14 +18,11 @@ Projet OpenClassrooms. L'objectif est d'optimiser un site web existant.
   
 - Supprimer les liens "spammy" dans le footer
   
-- Installer les bons outils de suivi
+- Installer Google analytics et search console
   
 - Compresser les images et optimiser leurs tailles et formats
   
 - Mettre les textes alternatifs appropriés dans "alt" des images
   
-## 15 recommandations à perfectionner le SEO du site 
-voir "les étapes 2 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx
-
-## 3 recommendations à maintenir le SEO du site 
-voir "les étapes 3 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx
+## Autres améliorations 
+disponibles dans le fichier P4_01_rapport_analyse.xlsx
