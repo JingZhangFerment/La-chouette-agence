@@ -2,26 +2,30 @@
 
 Projet OpenClassrooms. L'objectif est d'optimiser un site web existant.
 
-## Accessibilité
+Je propose une série d'amélioration en 3 étapes :
 
-- Attribut `lang="fr"` ajouté
+## Etape 1: 10 améliorations afin d'éviter les erreurs graves sur le SEO
 
-- Niveaux de contraste et tailles de texte améliorés
+- Renseigner le champs "lang" dans les fichiers html
 
-- Navigation au lecteur d'écran et au clavier améliorée
+- Améliorer le niveau de contraste et la taille des textes
 
-## SEO
+- Ajouter des réseaux sociaux en lien 
 
-- Balises `title` `keywords` `meta description` optimisés
+- Supprimer les textes sous forme de l'image et remplacer par le contenu avec les mots-clés
 
-- Liens brisés corrigés ou supprimés
+- Supprimer les mots-clés cachés en ajoutant les mots-clés pertinents avec <strong> ou <em> dans les sous-parties
+  
+- Optimiser les balises méta (title, description, keywords) avec les mots-clés pertinents
+  
+- Supprimer les liens "spammy" dans le footer
+  
+- Installer les bons outils de suivi et paramétrer les balises meta robots
+  
+- Compresser les images et optimiser leurs tailles et formats
+  
+- Mettre les textes alternatifs appropriés dans "alt" des images
 
-- Mots-clés cachés (black hat) supprimés
+## Etape 2: 15 recommandations pour perfectionner le SEO du site (voir "les étapes 2 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx)
 
-- Ajout des outils de suivi (google analytic / search console / indexation / crawling google bot)
-
-## Performance
-
-- Images redimensionnées et compressées
-
-- Fichiers javascript et css minifiés
+## Etape 3: 3 recommendations pour maintenir le SEO du site (voir "les étapes 3 " dans la colonne "action recommendé" du P4_01_rapport_analyse.xlsx)
