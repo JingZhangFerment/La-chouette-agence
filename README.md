@@ -2,9 +2,15 @@
 
 Projet OpenClassrooms. L'objectif est d'optimiser un site web existant.
 
-## SEO
+## Accessibilité
 
 - Attribut `lang="fr"` ajouté
+
+- Niveaux de contraste et tailles de texte améliorés
+
+- Navigation au lecteur d'écran et au clavier améliorée
+
+## SEO
 
 - Balises `title` `keywords` `meta description` optimisés
 
@@ -12,20 +18,10 @@ Projet OpenClassrooms. L'objectif est d'optimiser un site web existant.
 
 - Mots-clés cachés (black hat) supprimés
 
-- URL non sémantiques modifiées
-
-- Balises HTML sémantiques ajoutées
-
-## Accessibilité
-
-- Niveaux de contraste et tailles de texte améliorés
-
-- Imbriquer les titres de manière hiérarchique.
-
-- Navigation au lecteur d'écran et au clavier améliorée
+- Ajout des outils de suivi (google analytic / search console / indexation / crawling google bot)
 
 ## Performance
 
 - Images redimensionnées et compressées
 
-- Fichiers CSS et JavaScript minifiés
+- Fichiers javascript et css minifiés
