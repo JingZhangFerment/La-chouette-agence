@@ -24,5 +24,5 @@ Projet OpenClassrooms. L'objectif est d'optimiser un site web existant.
   
 - Mettre les textes alternatifs appropriés dans "alt" des images
   
-## Autres améliorations 
+## Autres améliorations réalisées 
 disponibles dans le fichier P4_01_rapport_analyse.xlsx
